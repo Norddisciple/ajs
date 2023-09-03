@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Norddisciple/ajs"
+    "registry": "https://npm.pkg.github.com/Norddisciple"
   },
   "scripts": {
     "build": "webpack --mode production",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Norddisciple/ajs.git"
+    "url": "git+https://github.com/norddisciple/ajs.git"
   },
   "author": "",
   "license": "ISC",
