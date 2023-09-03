@@ -1,10 +1,10 @@
 {
-  "name": "Norddisciple",
+  "name": "norddisciple",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/Norddisciple/ajs"
   },
   "scripts": {
     "build": "webpack --mode production",
