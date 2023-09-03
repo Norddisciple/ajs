@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Norddisciple"
+    "registry": "https://github.com/Norddisciple"
   },
   "scripts": {
     "build": "webpack --mode production",
